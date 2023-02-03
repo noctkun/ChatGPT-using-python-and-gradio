@@ -16,7 +16,7 @@ My take on DIY ChatGPT using OpenAI API.
   
   * Paste the keys in as a string in  *line 9*.
   
-  * Finally, simply run ```python run index.py``` in the terminal and TADAAA!
+  * Finally, simply run ```python index.py``` in the terminal and TADAAA!
 
 
 Hope You Enjoyed It!
