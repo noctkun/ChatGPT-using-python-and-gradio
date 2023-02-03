@@ -20,7 +20,9 @@ My take on DIY ChatGPT using OpenAI API.
   
   * Finally, simply run ```python index.py``` in the terminal and TADAAA!
 
-NOTE: The environment runs locally by default, To create a public link, set `share=True` in `launch()` in *line 55*
+NOTE: 
+The environment runs locally by default, To create a public link, set `share=True` in `launch()` in *line 55*.
+The interactions between ChatGPT is limited (defined as credit by OpenAI), if you want to interact more with the AI then you might need subscription.    
 
 Hope You Enjoyed It!
 
