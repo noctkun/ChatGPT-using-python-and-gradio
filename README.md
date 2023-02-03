@@ -1,5 +1,7 @@
 # ChatGPT-using-python-and-gradio
 
+<img width="1440" alt="Screenshot 2023-02-03 at 1 00 47 PM" src="https://user-images.githubusercontent.com/110219756/216539975-1fc5b614-5c24-4140-bb9c-c3b693ca33b8.png">
+
 My take on DIY ChatGPT using OpenAI API.
 
 ## Steps to Follow 😁
@@ -20,7 +22,6 @@ My take on DIY ChatGPT using OpenAI API.
 
 NOTE: The environment runs locally by default, To create a public link, set `share=True` in `launch()` in *line 55*
 
-
 Hope You Enjoyed It!
 
-Peace!
+Peace ✌🏻
